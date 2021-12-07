@@ -1,6 +1,4 @@
 /* eslint-disable no-return-assign */
-// import inmutability from './inmutability';
-// import bigTestCode from './bigTestCode';
 
 // Source: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
 
