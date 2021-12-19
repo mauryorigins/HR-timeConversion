@@ -1,12 +1,7 @@
 /* eslint-disable no-return-assign */
 
 // Source: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
-
-function simpleArraySum(ar: Array<number>): number {
-  let suma = 0;
-  ar.forEach((element) => suma += element);
-  return suma;
-}
+import simpleArraySum from './simpleArraySum'
 
 function main() {
   console.log('---------- Cool Programing ----------\n');
