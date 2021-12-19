@@ -1,12 +1,12 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
-import simpleArraySum from './simpleArraySum'
+// Source: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
+import timeConversion from './timeConversion';
 
 function main() {
   console.log('---------- Cool Programing ----------\n');
-  const testArray = [1, 2, 3, 4, 10, 11];
-  const result = simpleArraySum(testArray);
+  const test = '07:05:45PM';
+  const result = timeConversion(test);
   console.log('Result: ', result);
 }
 
